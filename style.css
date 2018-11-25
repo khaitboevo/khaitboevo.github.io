@@ -1,0 +1,62 @@
+body{
+	background-color: black;
+}
+h1
+{
+	color: black;
+	text-align: center;
+	font-family: verdana;
+	font-size: 40px;
+	background-color: red;
+	border-radius: 35px;
+}
+h2
+{
+	color: white;
+	font-family: verdana;
+	font-size: 30px;
+}
+h3
+{
+	font-family: broadway;
+	font-size: 35px;
+	color: white;
+}
+p{
+	color: white;
+	font-family: verdana;
+	font-size: 15px;
+}
+
+ul{
+	color: white;
+	font-family: new roman;
+	font-size: 20px;
+}
+a
+{
+	color: white;
+	font-family: verdana;
+}
+.leftimg {
+    float:left;
+    margin: 7px 7px 7px 0; 
+   }
+button
+{
+	font-family: broadway;
+	font-size: 35px;
+	color: red;
+	border-radius: 3px;
+	border-color: white;
+
+}
+hr
+{
+	color: red;
+	margin-top: 200px;
+}
+a
+{
+	text-decoration: none;
+}
